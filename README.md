@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Zahim Ahmed Khan</h1>
+<h1 align="center">Hi 👋, *I'm Zahim Ahmed Khan</h1>
 <h3 align="center">MERN Stack Developer turning ideas into full-stack web apps</h3>
 
 - 🔭 I recently worked on
--  HealthCare App:
--  https://health-care-app-nu-virid.vercel.app
--  Expense Tracking App:
--  https://expense-tracker-psi-sepia-89.vercel.app
+-  **HealthCare App**: [https://health-care-app-nu-virid.vercel.app](https://health-care-app-nu-virid.vercel.app)
+-  **Expense Tracking App**: [https://expense-tracker-psi-sepia-89.vercel.app](https://expense-tracker-psi-sepia-89.vercel.app)
 
-- 🌱 I’m currently learning **Java,Php,Android development,Sql,OOP(With java)**
+- 🌱 I’m currently learning **Java, Php, Android development, Sql, OOP(With java)**
 
 - 👯 I’m looking to collaborate on **MERN stack projects focused on real-world problems**
 
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **zahimahmedkhan@gmail.com**
 
-- ⚡ Fun fact **I love coding and I'm a quick learner.**
+- ⚡ Fun fact *I love coding and I'm a quick learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
