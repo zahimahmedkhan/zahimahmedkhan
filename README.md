@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zahim Ahmed Khan</h1>
 <h3 align="center">MERN Stack Developer turning ideas into full-stack web apps</h3>
 
-- 🔭 I recently worked on [HealthCare App & Expense Tracking App](https://health-care-app-nu-virid.vercel.app ,https://expense-tracker-psi-sepia-89.vercel.app)
+- 🔭 I recently worked on
+-  HealthCare App:
+-  https://health-care-app-nu-virid.vercel.app
+-  Expense Tracking App:
+-  https://expense-tracker-psi-sepia-89.vercel.app
 
 - 🌱 I’m currently learning **Java,Php,Android development,Sql,OOP(With java)**
 
