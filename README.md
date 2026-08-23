@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=Zahim+Ahmed+Khan;MERN+Stack+Developer;Building+Full-Stack+Web+Applications" alt="Zahim Ahmed Khan" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1200&color=18181B&center=true&vCenter=true&width=900&height=70&lines=Zahim+Ahmed+Khan;MERN+Stack+Developer;Building+Full-Stack+Web+Applications" alt="Zahim Ahmed Khan" />
 
 <br>
 
@@ -9,21 +9,17 @@
 <br><br>
 
 <a href="https://zahim-ahmed-khan-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/zahimahmedkhan">
-<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/zahim-ahmed-khan">
-<img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:zahimahmedkhan@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=zahimahmedkhan&label=PROFILE+VIEWS&color=18181B&style=flat-square" />
 
 </div>
 
@@ -31,25 +27,17 @@
 
 ---
 
-## `> whoami`
+## About
 
-```js
-const zahim = {
-    role: "MERN Stack Developer",
-    focus: ["Frontend", "Backend", "APIs", "Databases"],
-    currentlyLearning: ["Java", "OOP", "SQL", "PHP", "Android"],
-    interestedIn: ["Backend Architecture", "System Design", "Real-world Products"],
-    openTo: ["Collaboration", "Interesting Problems", "MERN Projects"]
-};
-```
+I'm a MERN Stack Developer focused on building modern, full-stack web applications.
 
-I build full-stack applications from the interface to the database.
+I work across both frontend and backend, building responsive interfaces, REST APIs, authentication systems, database-driven applications, and integrations with third-party services.
 
-I enjoy working on applications that involve real-world workflows, authentication, REST APIs, database design, file processing, third-party integrations, and data visualization.
+I'm currently expanding my knowledge in **Java, Object-Oriented Programming, SQL, PHP, and Android development**, while continuing to improve my backend architecture and system design skills.
 
 ---
 
-## `> tech --list`
+## Tech Stack
 
 <div align="center">
 
@@ -65,7 +53,7 @@ I enjoy working on applications that involve real-world workflows, authenticatio
 
 <br><br>
 
-### Tools & Infrastructure
+### Tools & Services
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,cloudflare" />
 
@@ -73,108 +61,52 @@ I enjoy working on applications that involve real-world workflows, authenticatio
 
 ---
 
-## `> projects --featured`
+## Featured Projects
 
 ### HealthPro
 
-**Healthcare Management Platform**
+A healthcare management application designed around real-world healthcare workflows.
 
-A full-stack healthcare application built around practical healthcare workflows.
+Users can manage health information, track vital signs, upload medical reports, and extract information from documents using OCR.
 
-**What it does**
+**Stack:** React · Node.js · Express · MongoDB · Cloudinary · Tesseract.js
 
-* Health information management
-* Vital sign tracking
-* Medical report uploads
-* OCR-based document processing
-* Cloud file storage
-* JWT authentication
-
-**Built with**
-
-`React` `Node.js` `Express` `MongoDB` `Cloudinary` `Tesseract.js`
-
-**[Live Application →](https://health-care-app-nu-virid.vercel.app)**
+[Live Demo →](https://health-care-app-nu-virid.vercel.app)
 
 ---
 
 ### Expenly
 
-**Expense Management Platform**
+A full-stack expense management application for tracking and analyzing personal financial data.
 
-A full-stack expense tracking application focused on managing and visualizing personal financial data.
+Includes authentication, expense management, data visualization, Excel export, role-based access, and cloud file handling.
 
-**What it does**
+**Stack:** React · Node.js · Express · MongoDB · Recharts · Multer · Cloudinary
 
-* JWT authentication
-* Expense management
-* Financial dashboards
-* Recharts data visualization
-* Excel export
-* Role-based access
-* Cloud file handling
-
-**Built with**
-
-`React` `Node.js` `Express` `MongoDB` `Recharts` `Multer` `Cloudinary`
-
-**[Live Application →](https://expense-tracker-psi-sepia-89.vercel.app)**
+[Live Demo →](https://expense-tracker-psi-sepia-89.vercel.app)
 
 ---
 
-## `> currently --working-on`
+## Currently Learning
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### Backend
-
-API Design<br>
-Architecture<br>
-Authentication
-
-</td>
-
-<td align="center" width="25%">
-
-### Java
-
-OOP<br>
-Data Structures<br>
-Core Java
-
-</td>
-
-<td align="center" width="25%">
-
-### Databases
-
-SQL<br>
-Database Design<br>
-Query Optimization
-
-</td>
-
-<td align="center" width="25%">
-
-### Android
-
-Native Development<br>
-Application Architecture<br>
-Mobile UI
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=java,php,mysql,androidstudio" />
 
 </div>
 
+I'm currently working on improving my understanding of:
+
+- Java and Object-Oriented Programming
+- SQL and relational databases
+- Backend architecture and API design
+- Android development
+
+I'm also interested in collaborating on **MERN projects that solve real-world problems**.
+
 ---
 
-## `> github --activity`
+## GitHub Activity
 
 <div align="center">
 
@@ -194,20 +126,7 @@ Mobile UI
 
 ---
 
-## `> development --principles`
-
-```text
-01  Build for real users
-02  Keep the code understandable
-03  Design the API before overcomplicating the implementation
-04  Prefer maintainable solutions over clever ones
-05  Learn the fundamentals behind the tools
-06  Ship → review → improve
-```
-
----
-
-## `> connect`
+## Connect
 
 <div align="center">
 
