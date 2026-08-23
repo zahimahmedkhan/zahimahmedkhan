@@ -1,26 +1,59 @@
-<h1 align="center">Hi 👋, *I'm Zahim Ahmed Khan</h1>
-<h3 align="center">MERN Stack Developer turning ideas into full-stack web apps</h3>
+# Zahim Ahmed Khan
 
-- 🔭 I recently worked on **HealthCare App**: [https://health-care-app-nu-virid.vercel.app](https://health-care-app-nu-virid.vercel.app) *&* **Expense Tracking App**: [https://expense-tracker-psi-sepia-89.vercel.app](https://expense-tracker-psi-sepia-89.vercel.app) **.**
+### MERN Stack Developer
 
-- 🌱 I’m currently learning **Java, Php, Android development, Sql, OOP(With java) .**
+I build full-stack web applications with a focus on clean UI, practical solutions, and maintainable code.
 
-- 👯 I’m looking to collaborate on **MERN stack projects focused on real-world problems .**
+Currently exploring Java, PHP, SQL, Android development, and Object-Oriented Programming while improving my backend architecture and system design skills.
 
-- 🤝 I’m looking for help with **Improving backend architecture in MERN projects .**
+## About Me
 
-- 👨‍💻 All of my projects are available at [https://zahim-ahmed-khan-portfolio.vercel.app](https://zahim-ahmed-khan-portfolio.vercel.app) **.**
+- MERN Stack Developer
+- Interested in solving real-world problems through software
+- Currently learning Java, PHP, SQL, and Android development
+- Improving backend architecture and application design
+- Open to collaborating on meaningful projects
 
-- 📫 How to reach me **zahimahmedkhan@gmail.com .**
+## Projects
 
-- ⚡ Fun fact *I love coding and I'm a quick learner .*
+### HealthPro
+A healthcare web application for managing health information, tracking vital signs, and processing medical reports with OCR.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zahim ahmed khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahim ahmed khan" height="30" width="40" /></a>
-<a href="https://fb.com/zahim ahmed khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahim ahmed khan" height="30" width="40" /></a>
-<a href="https://instagram.com/zahim_.ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahim_.ahmed" height="30" width="40" /></a>
-</p>
+**Tech:** React, Node.js, Express.js, MongoDB, Cloudinary, Tesseract.js
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[Live Demo](https://health-care-app-nu-virid.vercel.app)
+
+### Expenly
+A full-stack expense tracking application with authentication, expense management, data visualization, and Excel export.
+
+**Tech:** React, Node.js, Express.js, MongoDB, Recharts, Multer, Cloudinary
+
+[Live Demo](https://expense-tracker-psi-sepia-89.vercel.app)
+
+## Tech Stack
+
+**Frontend**
+
+`React` `Next.js` `JavaScript` `TypeScript` `HTML` `CSS` `Tailwind CSS` `Redux Toolkit`
+
+**Backend**
+
+`Node.js` `Express.js` `MongoDB` `REST APIs` `JWT`
+
+**Tools & Services**
+
+`Git` `GitHub` `Postman` `Firebase` `Cloudinary` `Vercel`
+
+## Portfolio
+
+[Portfolio](https://zahim-ahmed-khan-portfolio.vercel.app)
+
+## Contact
+
+**Email:** zahimahmedkhan@gmail.com
+
+**LinkedIn:** [linkedin.com/in/zahim-ahmed-khan](https://linkedin.com/in/zahim-ahmed-khan)
+
+---
+
+Thanks for visiting my profile.
